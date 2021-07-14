@@ -1,0 +1,3 @@
+1º basic promises exercises
+2º api for exemples (req, res etc...)
+3º async, await

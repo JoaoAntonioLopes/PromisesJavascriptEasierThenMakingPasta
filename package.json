@@ -1,0 +1,14 @@
+{
+  "name": "promisetraining",
+  "version": "1.0.0",
+  "description": "this is a first time promise training",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hello');"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
